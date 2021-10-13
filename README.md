@@ -34,4 +34,4 @@ Control estadísitico de calidad
 **Cartas U**
 <br>
 ![figure_14](https://raw.githubusercontent.com/psicobloc/ControlEstadisticoDeCalidad/main/img/cartaU_1.png)
-![figure_15](https://raw.githubusercontent.com/psicobloc/ControlEstadisticoDeCalidad/main/img/cartaU_2.png)
+![figure_15](https://raw.githubusercontent.com/psicobloc/ControlEstadisticoDeCalidad/main/img/CartaU_2.png)
